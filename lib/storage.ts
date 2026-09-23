@@ -1,6 +1,6 @@
-import { getSupabase } from "./db.js";
-import { env } from "./env.js";
-import type { ReceivedAttachment } from "./email.js";
+import { getSupabase } from "./db";
+import { env } from "./env";
+import type { ReceivedAttachment } from "./email";
 
 export async function uploadPhotoAttachments(
   attachments: ReceivedAttachment[],

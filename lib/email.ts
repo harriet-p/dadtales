@@ -1,6 +1,6 @@
 import { Resend } from "resend";
-import { env } from "./env.js";
-import { renderWeeklyQuestionEmail } from "./render-email.js";
+import { env } from "./env";
+import { renderWeeklyQuestionEmail } from "./render-email";
 
 let resend: Resend | null = null;
 

@@ -1,8 +1,8 @@
 import "dotenv/config";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
-import { getSupabase } from "../lib/db.js";
-import type { SeedQuestion } from "../lib/types.js";
+import { getSupabase } from "../lib/db";
+import type { SeedQuestion } from "../lib/types";
 
 const questionsPath = join(process.cwd(), "data/questions.json");
 const questions: SeedQuestion[] = JSON.parse(readFileSync(questionsPath, "utf8"));

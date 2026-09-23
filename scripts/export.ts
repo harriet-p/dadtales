@@ -1,11 +1,11 @@
 import "dotenv/config";
 import { writeFileSync } from "node:fs";
-import { getQuestionsWithAnswers } from "../lib/db.js";
+import { getQuestionsWithAnswers } from "../lib/db";
 import {
   formatAsJson,
   formatAsMarkdown,
   toExportEntries,
-} from "../lib/export.js";
+} from "../lib/export";
 
 function parseFormat(): "json" | "markdown" {
   const arg = process.argv.find((value) => value.startsWith("--format"));

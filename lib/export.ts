@@ -1,4 +1,4 @@
-import type { ExportEntry, QuestionWithAnswer } from "./types.js";
+import type { ExportEntry, QuestionWithAnswer } from "./types";
 
 /** Ordered by weekly send sequence (`send_order`). */
 export function toExportEntries(rows: QuestionWithAnswer[]): ExportEntry[] {

@@ -1,11 +1,11 @@
 import type { VercelRequest, VercelResponse } from "@vercel/node";
-import { getQuestionsWithAnswers } from "../lib/db.js";
+import { getQuestionsWithAnswers } from "../lib/db";
 import {
   formatAsJson,
   formatAsMarkdown,
   toExportEntries,
-} from "../lib/export.js";
-import { env } from "../lib/env.js";
+} from "../lib/export";
+import { env } from "../lib/env";
 
 export default async function handler(
   req: VercelRequest,

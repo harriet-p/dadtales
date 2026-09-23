@@ -1,6 +1,6 @@
 import { describe, it } from "node:test";
 import assert from "node:assert/strict";
-import { extractReplyBody, stripQuotedReply } from "../lib/quote-stripper.js";
+import { extractReplyBody, stripQuotedReply } from "../lib/quote-stripper";
 
 describe("stripQuotedReply", () => {
   it("keeps text before Gmail-style On ... wrote:", () => {

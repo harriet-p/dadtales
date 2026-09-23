@@ -2,7 +2,7 @@ import { render } from "@react-email/render";
 import {
   WeeklyQuestionEmail,
   type WeeklyQuestionEmailProps,
-} from "../emails/weekly-question.js";
+} from "../emails/weekly-question";
 
 const REPLY_INSTRUCTION =
   "Just hit reply and write as much or as little as you like. Photos welcome.";

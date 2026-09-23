@@ -2,9 +2,9 @@ import "dotenv/config";
 import {
   getNextUnsentQuestion,
   markQuestionSent,
-} from "../lib/db.js";
-import { sendWeeklyQuestion } from "../lib/email.js";
-import { env } from "../lib/env.js";
+} from "../lib/db";
+import { sendWeeklyQuestion } from "../lib/email";
+import { env } from "../lib/env";
 
 interface CliOptions {
   test: boolean;

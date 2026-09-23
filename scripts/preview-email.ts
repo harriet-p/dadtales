@@ -1,8 +1,8 @@
 import "dotenv/config";
 import { mkdir, writeFile } from "node:fs/promises";
 import { join } from "node:path";
-import { getNextUnsentQuestion } from "../lib/db.js";
-import { renderWeeklyQuestionEmail } from "../lib/render-email.js";
+import { getNextUnsentQuestion } from "../lib/db";
+import { renderWeeklyQuestionEmail } from "../lib/render-email";
 
 async function previewEmail(): Promise<void> {
   const question = await getNextUnsentQuestion();

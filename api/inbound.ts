@@ -2,23 +2,25 @@ import type { VercelRequest, VercelResponse } from "@vercel/node";
 import {
   getMostRecentlySentQuestion,
   insertAnswer,
-} from "../lib/db.js";
+} from "../lib/db";
 import {
   extractReplyBody,
-} from "../lib/quote-stripper.js";
+} from "../lib/quote-stripper";
 import {
   fetchImageAttachments,
   fetchReceivedEmail,
   notifyReplyReceived,
   verifyResendWebhook,
-} from "../lib/email.js";
-import { uploadPhotoAttachments } from "../lib/storage.js";
-import type { ResendEmailReceivedWebhook } from "../lib/types.js";
+} from "../lib/email";
+import { uploadPhotoAttachments } from "../lib/storage";
+import type { ResendEmailReceivedWebhook } from "../lib/types";
 
 export const config = {
+  maxDuration: 30,
   api: {
     bodyParser: false,
   },
+  includeFiles: ["lib/**", "emails/**"],
 };
 
 async function readRawBody(req: VercelRequest): Promise<string> {

@@ -10,7 +10,7 @@ import {
   Text,
 } from "@react-email/components";
 import * as React from "react";
-import { colors, fonts } from "./theme.js";
+import { colors, fonts } from "./theme";
 
 export interface WeeklyQuestionEmailProps {
   questionText: string;
