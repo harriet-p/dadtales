@@ -1,0 +1,366 @@
+[
+  {
+    "text": "What is your earliest childhood memory?",
+    "send_order": 1,
+    "theme": "childhood",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "What was your childhood home like?",
+    "send_order": 2,
+    "theme": "childhood",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "What was the neighbourhood or town you grew up in like?",
+    "send_order": 3,
+    "theme": "childhood",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "What was Queensland like when you were growing up?",
+    "send_order": 4,
+    "theme": "childhood",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "Did your family move around when you were young? What was that like?",
+    "send_order": 5,
+    "theme": "childhood",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "What was school like for you as a young kid?",
+    "send_order": 6,
+    "theme": "education",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "What were your favourite subjects in school?",
+    "send_order": 7,
+    "theme": "education",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "What games or mischief did you and your mates get up to?",
+    "send_order": 8,
+    "theme": "childhood",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "Tell me a funny story from your childhood.",
+    "send_order": 9,
+    "theme": "childhood",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "What was Christmas like in your family when you were young?",
+    "send_order": 10,
+    "theme": "family",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "What was your father like when you were young?",
+    "send_order": 11,
+    "theme": "family",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "What was your mother like when you were young?",
+    "send_order": 12,
+    "theme": "family",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "Are you more like your mother or your father, and in what ways?",
+    "send_order": 13,
+    "theme": "family",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "What is your favourite memory of your father?",
+    "send_order": 14,
+    "theme": "family",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "What is your favourite memory of your mother?",
+    "send_order": 15,
+    "theme": "family",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "Tell me about your older brother and your relationship growing up.",
+    "send_order": 16,
+    "theme": "family",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "How did your relationship with your brother change over time?",
+    "send_order": 17,
+    "theme": "family",
+    "chronology_period": "general",
+    "bonus": false
+  },
+  {
+    "text": "What were your grandparents like?",
+    "send_order": 18,
+    "theme": "family_history",
+    "chronology_period": "childhood",
+    "bonus": false
+  },
+  {
+    "text": "What do you know about your grandparents and great-grandparents lives?",
+    "send_order": 19,
+    "theme": "family_history",
+    "chronology_period": "general",
+    "bonus": false
+  },
+  {
+    "text": "What do you know about our family history and where the family came from?",
+    "send_order": 20,
+    "theme": "family_history",
+    "chronology_period": "general",
+    "bonus": false
+  },
+  {
+    "text": "How far back have you traced the family tree?",
+    "send_order": 21,
+    "theme": "family_history",
+    "chronology_period": "general",
+    "bonus": false
+  },
+  {
+    "text": "What is the most surprising thing you discovered researching the family tree?",
+    "send_order": 22,
+    "theme": "family_history",
+    "chronology_period": "general",
+    "bonus": false
+  },
+  {
+    "text": "What family traditions, sayings or habits have been passed down?",
+    "send_order": 23,
+    "theme": "family_history",
+    "chronology_period": "general",
+    "bonus": false
+  },
+  {
+    "text": "Are there any family heirlooms you wish you knew more about?",
+    "send_order": 24,
+    "theme": "family_history",
+    "chronology_period": "general",
+    "bonus": false
+  },
+  {
+    "text": "What was your first job?",
+    "send_order": 25,
+    "theme": "career",
+    "chronology_period": "young-adult",
+    "bonus": false
+  },
+  {
+    "text": "Tell me a funny story about living in a share house as a young man.",
+    "send_order": 26,
+    "theme": "fun",
+    "chronology_period": "young-adult",
+    "bonus": false
+  },
+  {
+    "text": "How long did you work for the Department of Social Security and what roles did you do there?",
+    "send_order": 27,
+    "theme": "career",
+    "chronology_period": "adult",
+    "bonus": false
+  },
+  {
+    "text": "How did you end up working in academia?",
+    "send_order": 28,
+    "theme": "career",
+    "chronology_period": "adult",
+    "bonus": false
+  },
+  {
+    "text": "What career achievement are you proudest of?",
+    "send_order": 29,
+    "theme": "career",
+    "chronology_period": "adult",
+    "bonus": false
+  },
+  {
+    "text": "What is the best career advice you ever received?",
+    "send_order": 30,
+    "theme": "career",
+    "chronology_period": "adult",
+    "bonus": false
+  },
+  {
+    "text": "How did you get involved with Swagmans Spit Roast?",
+    "send_order": 31,
+    "theme": "career",
+    "chronology_period": "adult",
+    "bonus": false
+  },
+  {
+    "text": "How did you get into share trading?",
+    "send_order": 32,
+    "theme": "career",
+    "chronology_period": "adult",
+    "bonus": false
+  },
+  {
+    "text": "How did you meet Mum?",
+    "send_order": 33,
+    "theme": "family",
+    "chronology_period": "family",
+    "bonus": false
+  },
+  {
+    "text": "What first attracted you to Mum?",
+    "send_order": 34,
+    "theme": "family",
+    "chronology_period": "family",
+    "bonus": false
+  },
+  {
+    "text": "When did you know Mum was the one?",
+    "send_order": 35,
+    "theme": "family",
+    "chronology_period": "family",
+    "bonus": false
+  },
+  {
+    "text": "What was your wedding day like?",
+    "send_order": 36,
+    "theme": "family",
+    "chronology_period": "family",
+    "bonus": false
+  },
+  {
+    "text": "What is the secret to a long marriage?",
+    "send_order": 37,
+    "theme": "family",
+    "chronology_period": "later-life",
+    "bonus": false
+  },
+  {
+    "text": "What do you remember about becoming a father for the first time?",
+    "send_order": 38,
+    "theme": "family",
+    "chronology_period": "family",
+    "bonus": false
+  },
+  {
+    "text": "What surprised you most about raising a family?",
+    "send_order": 39,
+    "theme": "family",
+    "chronology_period": "family",
+    "bonus": false
+  },
+  {
+    "text": "What do you admire most about who your children have become?",
+    "send_order": 40,
+    "theme": "family",
+    "chronology_period": "later-life",
+    "bonus": false
+  },
+  {
+    "text": "What are your favourite memories of each of your children growing up?",
+    "send_order": 41,
+    "theme": "family",
+    "chronology_period": "family",
+    "bonus": false
+  },
+  {
+    "text": "What was one of the hardest times your family went through and how did you overcome it?",
+    "send_order": 42,
+    "theme": "family",
+    "chronology_period": "family",
+    "bonus": false
+  },
+  {
+    "text": "What was your favourite family holiday and why?",
+    "send_order": 43,
+    "theme": "travel",
+    "chronology_period": "family",
+    "bonus": false
+  },
+  {
+    "text": "What is the most memorable international trip you have taken?",
+    "send_order": 44,
+    "theme": "travel",
+    "chronology_period": "general",
+    "bonus": false
+  },
+  {
+    "text": "What is the most beautiful place you have ever seen?",
+    "send_order": 45,
+    "theme": "travel",
+    "chronology_period": "general",
+    "bonus": false
+  },
+  {
+    "text": "Tell me about your motorbike days as a young bloke.",
+    "send_order": 46,
+    "theme": "vehicles",
+    "chronology_period": "young-adult",
+    "bonus": false
+  },
+  {
+    "text": "Where did your love of planes come from?",
+    "send_order": 47,
+    "theme": "hobbies",
+    "chronology_period": "general",
+    "bonus": false
+  },
+  {
+    "text": "Tell me about the dogs you have had throughout your life.",
+    "send_order": 48,
+    "theme": "hobbies",
+    "chronology_period": "family",
+    "bonus": false
+  },
+  {
+    "text": "What are the most important lessons you have learned in life?",
+    "send_order": 49,
+    "theme": "reflection",
+    "chronology_period": "later-life",
+    "bonus": false
+  },
+  {
+    "text": "What period of your life were you happiest, and why?",
+    "send_order": 50,
+    "theme": "reflection",
+    "chronology_period": "later-life",
+    "bonus": false
+  },
+  {
+    "text": "What are you proudest of in your life, and what do you hope people remember about you?",
+    "send_order": 51,
+    "theme": "reflection",
+    "chronology_period": "later-life",
+    "bonus": false
+  },
+  {
+    "text": "If this was the last thing you ever wrote, what words of wisdom would you leave for future generations?",
+    "send_order": 52,
+    "theme": "reflection",
+    "chronology_period": "later-life",
+    "bonus": false
+  }
+]
