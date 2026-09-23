@@ -1,4 +1,6 @@
 {
+  "buildCommand": "npm run typecheck",
+  "outputDirectory": "public",
   "crons": [
     {
       "path": "/api/cron/send-question",
